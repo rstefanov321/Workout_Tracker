@@ -18,7 +18,7 @@ headers = {
 
 body = {
  "query": input("What did you do today? "),
- "gender": "male",
+ "gender": "fe/male",
  "weight_kg": float(),
  "height_cm": int(),
  "age": int()
